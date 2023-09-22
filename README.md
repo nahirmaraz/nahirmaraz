@@ -1,6 +1,9 @@
 ### Hi there 👋
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/marlen-nahir-maraz-581657168/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marlen.maraz@gmail.com)](mailto:marlen.maraz@gmail.com) 
 
+### Glad to see you here!
 <!--
+[![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://manumanoj.me)](https://manumanoj.me) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/manumanoj0010)](https://twitter.com/manumanoj0010) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/m.a.n.u.m.a.n.o.j/)](https://instagram.com/m.a.n.u.m.a.n.o.j) [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/manumanoj0010)](https://facebook.com/manumanoj0010)
 **nahirmaraz/nahirmaraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -24,3 +27,5 @@ Here are some ideas to get you started:
 <path d="M35.049 35.6909L36.8466 36.5322L48.8779 17.3915L49.4396 16.4979L48.5169 15.9852L43.595 13.2508L42.5336 12.6612L42.1583 13.8159L35.049 35.6909Z" fill="#CCFF33" stroke="black" stroke-width="2"/>
 <path d="M35.6061 35.0809L35.6619 35.2835L35.5528 35.1056L21.334 42.2149L20.2623 42.7508L20.9812 43.7094L22.6219 45.8969L23.2177 46.6913L24.0163 46.1011L36.3874 36.9572L44.3353 35.8975L45.4447 35.7496L45.1733 34.6637L44.6264 32.4762L44.3416 31.3371L43.2623 31.7996L35.6061 35.0809Z" fill="#0044FF" stroke="black" stroke-width="2"/>
 </svg>
+
+
