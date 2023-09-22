@@ -1,7 +1,19 @@
 ### Hi there 👋
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/marlen-nahir-maraz-581657168/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marlen.maraz@gmail.com)](mailto:marlen.maraz@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/marlen-nahir-maraz-581657168/)](https://www.linkedin.com/in/marlen-nahir-maraz-581657168/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marlen.maraz@gmail.com)](mailto:marlen.maraz@gmail.com) 
 
 ### Glad to see you here!
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,md,mysql,py,vscode&perline=14" />
+  </a>
+</p>
 <!--
 [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://manumanoj.me)](https://manumanoj.me) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/manumanoj0010)](https://twitter.com/manumanoj0010) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/m.a.n.u.m.a.n.o.j/)](https://instagram.com/m.a.n.u.m.a.n.o.j) [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/manumanoj0010)](https://facebook.com/manumanoj0010)
 **nahirmaraz/nahirmaraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,4 +40,6 @@ Here are some ideas to get you started:
 <path d="M35.6061 35.0809L35.6619 35.2835L35.5528 35.1056L21.334 42.2149L20.2623 42.7508L20.9812 43.7094L22.6219 45.8969L23.2177 46.6913L24.0163 46.1011L36.3874 36.9572L44.3353 35.8975L45.4447 35.7496L45.1733 34.6637L44.6264 32.4762L44.3416 31.3371L43.2623 31.7996L35.6061 35.0809Z" fill="#0044FF" stroke="black" stroke-width="2"/>
 </svg>
 
-
+<p align="center">
+<a href="https://www.linkedin.com/in/marlen-nahir-maraz-581657168/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+</p>
